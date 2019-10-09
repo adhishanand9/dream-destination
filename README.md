@@ -1,3 +1,3 @@
 # Dream-Destination
-website for display of dream destinations
-<img src="ss/ss1.png" height="600em" />
+Updated Website for Display of Dream Destinations
+<img src="ss/ss2.png" height="600em" />
